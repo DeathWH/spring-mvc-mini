@@ -20,10 +20,10 @@
 <p>Automatical Managed Object Reservation System</p>
 <div id="tabs">
 	<ul>
-        <li><a href="<c:url value="/userinfoform" />" title="userinfoform">UserInfoForm</a></li>
-        <li><a href="<c:url value="/objectclassform" />" title="objectclassform">ObjectClassForm</a></li>
-        <li><a href="<c:url value="/requeststatus" />" title="requeststatus">RequestStatusForm</a></li>
-        <li><a href="<c:url value="/objectClasses" />" title="objectClasses">ObjectClassList</a></li>
+        <li><a href="<c:url value="./userinfoform.jsp" />" title="userinfoform">UserInfoForm</a></li>
+        <li><a href="<c:url value="./objectclassform.jsp" />" title="objectclassform">ObjectClassForm</a></li>
+        <li><a href="<c:url value="./requeststatus.jsp" />" title="requeststatus">RequestStatusForm</a></li>
+        <li><a href="<c:url value="./objectClasses.jsp" />" title="objectClasses">ObjectClassList</a></li>
     </ul>
 </div>	
 <p>? 2015 spring. Tech:<a href="http://spring.io/guides">Spring MVC</a>. Support Contact <a href="mailto:jerry.1.zhang@spring.com">Jerry Zhang</a></p>
